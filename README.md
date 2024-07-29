@@ -11,7 +11,8 @@ To enable Multimodal Large Language Models (MLLMs) to understand videos, a large
 
 
 ## Release
-- [2024/06/18] 🔥 ShareGemini-Webvid-core100k is available [here](https://huggingface.co/datasets/Share14/ShareGemini). The caption data being prepared for release includes:
+- [2024/07/29] 🔥 ShareGemini-K400 is available [here](https://huggingface.co/datasets/Share14/ShareGemini/tree/main). 
+- [2024/06/18] 🔥 ShareGemini-Webvid-core100k is available [here](https://huggingface.co/datasets/Share14/ShareGemini/tree/main). The caption data being prepared for release includes:
   * ShareGemini-Webvid
   * ShareGemini-InternVid
   * ShareGemini-K400
